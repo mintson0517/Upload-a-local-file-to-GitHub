@@ -1,0 +1,5 @@
+"This is a repository for trying to upload a local file to GitHub."
+"これはローカルファイルをGitHubにアップロードしようとするためのリポジトリです。"
+"這是一個嘗試將本地文件上傳到GitHub的存儲庫。"
+"로컬 파일을 GitHub에 업로드하려는 리포지토리입니다."
+"Il s'agit d'un dépôt pour essayer de télécharger un fichier local sur GitHub."
