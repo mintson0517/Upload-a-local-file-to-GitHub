@@ -3,3 +3,14 @@
 "這是一個嘗試將本地文件上傳到GitHub的存儲庫。"
 "로컬 파일을 GitHub에 업로드하려는 리포지토리입니다."
 "Il s'agit d'un dépôt pour essayer de télécharger un fichier local sur GitHub."
+”Este es un repositorio para cargar archivos locales en GitHub.”
+”هذا مستودع لتحميل الملفات المحلية إلى GitHub.”
+”यह GitHub पर स्थानीय फ़ाइलें अपलोड करने के लिए एक रिपॉजिटरी है।”
+”Ini adalah repositori untuk mengunggah file lokal ke GitHub.”
+”Este é um repositório para carregar arquivos locais no GitHub.”
+”এটি লোকাল ফাইলগুলি গিটহাবে আপলোড করতের জন্য একটি রিপোজিটরি।”
+”Dies ist ein Repository zum Hochladen lokaler Dateien auf GitHub.”
+”Đây là một kho lưu trữ để tải lên các tệp cục bộ lên GitHub.”
+”Questo è un repository per caricare file locali su GitHub.”
+”Bu, yerel dosyaları GitHub'a yüklemek için bir depodur.”
+”นี่คือคลังเก็บสำหรับอัปโหลดไฟล์ที่เป็นที่ตั้งใน GitHub ครับ/ค่ะ।”
